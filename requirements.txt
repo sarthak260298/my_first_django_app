@@ -1,3 +1,4 @@
+Django==1.9.7
 bondpy==1.7.16
 camera-calibration==1.12.14
 catkin==0.6.16
@@ -6,7 +7,6 @@ cv-bridge==1.11.8
 diagnostic-analysis==1.8.8
 diagnostic-common-diagnostics==1.8.8
 diagnostic-updater==1.8.8
-Django==1.9.7
 dynamic-reconfigure==1.5.38
 ecdsa==0.13
 Fabric==1.11.1
