@@ -1,5 +1,4 @@
 Django==1.9.7
-camera-calibration==1.12.14
 catkin==0.6.16
 confluence==0.1
 cv-bridge==1.11.8
